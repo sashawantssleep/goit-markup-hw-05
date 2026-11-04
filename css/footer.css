@@ -24,7 +24,7 @@
   margin-right: 120px;
 }
 .footer-social {
-  margin-right: 80px;
+  margin-right: 83px;
 }
 .footer-heading {
   margin-bottom: 16px;
@@ -68,7 +68,7 @@
   color: #fff;
   font-family: inherit;
   font-size: 12px;
-  line-height: 2;
+  line-height: 1.17;
   letter-spacing: 0.04em;
   filter: drop-shadow(0 4px 4px rgba(0, 0, 0, 0.15));
   outline: transparent;
@@ -100,5 +100,5 @@
 }
 .subscribe-button:hover,
 .subscribe-button:focus {
-  background-color: #404bbf;
+  background-color: #31d0aa;
 }
